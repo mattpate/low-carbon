@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: mattpate/lcj
+  repo: mattpate/low-carbon
 
 media_folder: static/assets
 
