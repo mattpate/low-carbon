@@ -9,6 +9,7 @@
     "emotion": "^9.2.4",
     "emotion-server": "^9.2.4",
     "emotion-theming": "^9.2.4",
+    "extract-text-webpack-plugin": "^3.0.2",
     "gatsby": "next",
     "gatsby-plugin-google-fonts": "0.0.4",
     "gatsby-plugin-netlify": "^2.0.0-beta.2",
